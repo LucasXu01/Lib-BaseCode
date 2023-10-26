@@ -1,2 +1,2 @@
 # Lib-BaseCode
-Lib for base utils code;
+module for base util code
